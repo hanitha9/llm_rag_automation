@@ -122,6 +122,11 @@ python test_client.py
   Prompt: Launch Google Chrome -> 'open_chrome'
   Prompt: Check CPU usage -> 'get_cpu_usage'
   ```
+  - Output:
+  ```
+  ![Screenshot 2025-03-28 174740](https://github.com/user-attachments/assets/2ba39dd2-2c00-4158-b92c-2cb0e6a40dee)
+
+  ```
 
 ### Context Awareness Test (`test_client1.py`)
 ```bash
@@ -132,6 +137,12 @@ python test_client1.py
   Prompt: Check CPU usage -> 'get_cpu_usage'
   Prompt: Show it again -> 'get_cpu_usage'
   ```
+  - Output:
+  ```
+  ![Screenshot 2025-03-28 180245](https://github.com/user-attachments/assets/d0096ccf-1dbd-4359-bbfc-019124e9cfbb)
+
+
+  ```
 
 ### Custom Function Test (`test_custom.py`)
 ```bash
@@ -140,6 +151,12 @@ python test_custom.py
 - Expected Output:
   ```
   Register Response: {'message': "Function 'say_hello' registered successfully"}
+  ```
+  - Output:
+  ```
+  ![Screenshot 2025-03-28 181241](https://github.com/user-attachments/assets/003b9034-fb7d-448a-afe8-b838f1c4a6fd)
+
+
   ```
 
 ### Individual Execution Tests
@@ -179,11 +196,11 @@ python test_run_shell_command.py
 | Execution errors | Confirm Windows-specific commands. Check file permissions. |
 
 ---
-## screen recordings
-   Core Functionality,Context Awareness,Custom Function testing    
-    ![Recording 2025-03-28 212325](https://github.com/user-attachments/assets/0d92f24e-2042-4a59-807c-aff10d290329)
-   individual execution tests
-    ![Recording 2025-03-28 212056](https://github.com/user-attachments/assets/ad761a38-cc92-4fd8-91a2-02aa0934427b)
+# screen recordings
+Core Functionality,Context Awareness,Custom Function testing    
+![Recording 2025-03-28 212325](https://github.com/user-attachments/assets/0d92f24e-2042-4a59-807c-aff10d290329)
+individual execution tests
+![Recording 2025-03-28 212056](https://github.com/user-attachments/assets/ad761a38-cc92-4fd8-91a2-02aa0934427b)
 
 ## Submission Details
 - **GitHub**: https://github.com/yourusername/llm_rag_automation
