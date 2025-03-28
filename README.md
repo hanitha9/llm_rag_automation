@@ -119,9 +119,37 @@ python test_client.py
 ```
 - Expected Output:
   ```
-  Prompt: Open calculator -> 'open_calculator'
-  Prompt: Launch Google Chrome -> 'open_chrome'
-  Prompt: Check CPU usage -> 'get_cpu_usage'
+  (venv) C:\Users\HANITHA\llm_rag_automation>python test_client.py
+Prompt: Open calculator
+Function: open_calculator
+Generated Code:
+from automation_functions import open_calculator
+def main():
+    try:
+        open_calculator()
+        print("open_calculator executed successfully.")
+    except Exception as e:
+        print(f"Error executing function: {e}")
+
+if __name__ == "__main__":
+    main()
+
+--------------------------------------------------
+Prompt: Launch Google Chrome
+Function: open_chrome
+Generated Code:
+from automation_functions import open_chrome
+def main():
+    try:
+        open_chrome()
+        print("open_chrome executed successfully.")
+    except Exception as e:
+        print(f"Error executing function: {e}")
+
+if __name__ == "__main__":
+    main()
+
+--------------------------------------------------
   ```
 
 ### Context Awareness Test (`test_client1.py`)
@@ -130,8 +158,52 @@ python test_client1.py
 ```
 - Expected Output:
   ```
-  Prompt: Check CPU usage -> 'get_cpu_usage'
-  Prompt: Show it again -> 'get_cpu_usage'
+  (venv) C:\Users\HANITHA\llm_rag_automation>python test_client1.py
+Prompt: Check CPU usage
+Function: get_cpu_usage
+Generated Code:
+from automation_functions import get_cpu_usage
+def main():
+    try:
+        get_cpu_usage()
+        print("get_cpu_usage executed successfully.")
+    except Exception as e:
+        print(f"Error executing function: {e}")
+
+if __name__ == "__main__":
+    main()
+
+--------------------------------------------------
+Prompt: Show it again
+Function: get_cpu_usage
+Generated Code:
+from automation_functions import get_cpu_usage
+def main():
+    try:
+        get_cpu_usage()
+        print("get_cpu_usage executed successfully.")
+    except Exception as e:
+        print(f"Error executing function: {e}")
+
+if __name__ == "__main__":
+    main()
+
+--------------------------------------------------
+Prompt: Create a text file
+Function: create_text_file
+Generated Code:
+from automation_functions import create_text_file
+def main():
+    try:
+        create_text_file('example.txt')
+        print("create_text_file executed successfully.")
+    except Exception as e:
+        print(f"Error executing function: {e}")
+
+if __name__ == "__main__":
+    main()
+
+--------------------------------------------------
   ```
 
 ### Custom Function Test (`test_custom.py`)
@@ -140,7 +212,39 @@ python test_custom.py
 ```
 - Expected Output:
   ```
-  Register Response: {'message': "Function 'say_hello' registered successfully"}
+  (venv) C:\Users\HANITHA\llm_rag_automation>python test_custom.py
+Register Response: {'detail': '400: Function already exists'}
+Prompt: Say hello to the world
+Function: say_hello
+Generated Code:
+from automation_functions import say_hello
+def main():
+    try:
+        say_hello('world')
+        print("say_hello executed successfully.")
+    except Exception as e:
+        print(f"Error executing function: {e}")
+
+if __name__ == "__main__":
+    main()
+
+--------------------------------------------------
+Prompt: Say it again
+Function: say_hello
+Generated Code:
+from automation_functions import say_hello
+def main():
+    try:
+        say_hello('world')
+        print("say_hello executed successfully.")
+    except Exception as e:
+        print(f"Error executing function: {e}")
+
+if __name__ == "__main__":
+    main()
+
+--------------------------------------------------
+
   ```
 
 ### Individual Execution Tests
