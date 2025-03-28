@@ -180,9 +180,9 @@ python test_run_shell_command.py
 
 ---
 ## screen recordings
-     ### Core Functionality,Context Awareness,Custom Function testing    
+   ###Core Functionality,Context Awareness,Custom Function testing    
     ![Recording 2025-03-28 212325](https://github.com/user-attachments/assets/0d92f24e-2042-4a59-807c-aff10d290329)
-    ### individual execution tests
+   ###individual execution tests
     ![Recording 2025-03-28 212056](https://github.com/user-attachments/assets/ad761a38-cc92-4fd8-91a2-02aa0934427b)
 
 ## Submission Details
