@@ -189,11 +189,14 @@ python test_run_shell_command.py
 | Custom function not retrieved | Ensure successful registration. Verify RAG index rebuild. |
 | Execution errors | Confirm Windows-specific commands. Check file permissions. |
 
----
-# Core Functionality,Context Awareness,Custom Function testing    
-![Recording 2025-03-28 212325](https://github.com/user-attachments/assets/0d92f24e-2042-4a59-807c-aff10d290329)
+---  
+  
 # individual execution tests
-![Recording 2025-03-28 212056](https://github.com/user-attachments/assets/ad761a38-cc92-4fd8-91a2-02aa0934427b)
+  ![Screenshot 2025-03-28 213924](https://github.com/user-attachments/assets/f489f73d-2f98-4663-bc4b-750a6ea5acfb)
+
+  ![Screenshot 2025-03-28 213959](https://github.com/user-attachments/assets/ef13d67b-2fef-4e11-af0c-861d33dce673)
+
+  ![Screenshot 2025-03-28 214037](https://github.com/user-attachments/assets/5d92d3c1-6adb-46f5-87a1-14310569393a)
 
 ## Submission Details
 - **GitHub**: https://github.com/yourusername/llm_rag_automation
