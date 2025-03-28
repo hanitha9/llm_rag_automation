@@ -1,0 +1,207 @@
+2025-03-28 14:21:59,947 - INFO - Use pytorch device_name: cpu
+2025-03-28 14:21:59,949 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 14:22:22,593 - INFO - Received prompt: Open calculator
+2025-03-28 14:22:22,652 - INFO - Retrieved function: open_calculator for prompt: Open calculator
+2025-03-28 14:22:22,653 - INFO - Generated code for open_calculator with params: None
+2025-03-28 14:22:24,696 - INFO - Received prompt: Launch Google Chrome
+2025-03-28 14:22:24,723 - INFO - Retrieved function: open_chrome for prompt: Launch Google Chrome
+2025-03-28 14:22:24,723 - INFO - Generated code for open_chrome with params: None
+2025-03-28 14:22:26,751 - INFO - Received prompt: Check CPU usage
+2025-03-28 14:22:26,780 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 14:22:26,781 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 14:22:28,834 - INFO - Received prompt: Create a text file
+2025-03-28 14:22:28,862 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 14:22:28,863 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 14:22:30,901 - INFO - Received prompt: Run a command
+2025-03-28 14:22:30,930 - INFO - Retrieved function: run_shell_command for prompt: Run a command
+2025-03-28 14:22:30,930 - INFO - Generated code for run_shell_command with params: ['dir']
+2025-03-28 14:22:39,513 - INFO - Received prompt: Check CPU usage
+2025-03-28 14:22:39,540 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 14:22:39,541 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 14:22:41,574 - INFO - Received prompt: Show it again
+2025-03-28 14:22:41,633 - INFO - Retrieved function: get_cpu_usage for prompt: Show it again
+2025-03-28 14:22:41,634 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 14:22:43,667 - INFO - Received prompt: Create a text file
+2025-03-28 14:22:43,695 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 14:22:43,695 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 14:23:01,450 - INFO - Registered new function: say_hello - Prints a hello message to the console
+2025-03-28 14:23:03,496 - INFO - Received prompt: Say hello to the world
+2025-03-28 14:23:03,530 - INFO - Retrieved function: create_text_file for prompt: Say hello to the world
+2025-03-28 14:23:03,530 - INFO - Generated code for create_text_file with params: None
+2025-03-28 14:23:05,573 - INFO - Received prompt: Say it again
+2025-03-28 14:23:05,634 - INFO - Retrieved function: create_text_file for prompt: Say it again
+2025-03-28 14:23:05,635 - INFO - Generated code for create_text_file with params: None
+2025-03-28 14:36:22,740 - INFO - Use pytorch device_name: cpu
+2025-03-28 14:36:22,740 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 14:36:39,511 - INFO - Received prompt: Open calculator
+2025-03-28 14:36:39,550 - INFO - Retrieved function: open_calculator for prompt: Open calculator
+2025-03-28 14:36:39,550 - INFO - Generated code for open_calculator with params: None
+2025-03-28 14:36:41,607 - INFO - Received prompt: Launch Google Chrome
+2025-03-28 14:36:41,641 - INFO - Retrieved function: open_chrome for prompt: Launch Google Chrome
+2025-03-28 14:36:41,642 - INFO - Generated code for open_chrome with params: None
+2025-03-28 14:36:43,695 - INFO - Received prompt: Check CPU usage
+2025-03-28 14:36:43,735 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 14:36:43,736 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 14:36:45,812 - INFO - Received prompt: Create a text file
+2025-03-28 14:36:45,846 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 14:36:45,847 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 14:36:47,905 - INFO - Received prompt: Run a command
+2025-03-28 14:36:47,933 - INFO - Retrieved function: run_shell_command for prompt: Run a command
+2025-03-28 14:36:47,934 - INFO - Generated code for run_shell_command with params: ['dir']
+2025-03-28 14:37:03,838 - INFO - Received prompt: Check CPU usage
+2025-03-28 14:37:03,865 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 14:37:03,865 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 14:37:05,917 - INFO - Received prompt: Show it again
+2025-03-28 14:37:05,980 - INFO - Retrieved function: get_cpu_usage for prompt: Show it again
+2025-03-28 14:37:05,980 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 14:37:08,032 - INFO - Received prompt: Create a text file
+2025-03-28 14:37:08,061 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 14:37:08,061 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 14:37:20,359 - INFO - Registered new function: say_hello - Prints a hello message to the console
+2025-03-28 14:37:22,400 - INFO - Received prompt: Say hello to the world
+2025-03-28 14:37:22,427 - INFO - Retrieved function: create_text_file for prompt: Say hello to the world
+2025-03-28 14:37:22,427 - INFO - Generated code for create_text_file with params: None
+2025-03-28 14:37:24,488 - INFO - Received prompt: Say it again
+2025-03-28 14:37:24,544 - INFO - Retrieved function: create_text_file for prompt: Say it again
+2025-03-28 14:37:24,544 - INFO - Generated code for create_text_file with params: None
+2025-03-28 14:43:08,920 - INFO - Use pytorch device_name: cpu
+2025-03-28 14:43:08,921 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 14:43:24,226 - INFO - Registered new function: say_hello - Prints a hello message to the console
+2025-03-28 14:43:26,265 - INFO - Received prompt: Say hello to the world
+2025-03-28 14:43:26,299 - INFO - Retrieved function: create_text_file for prompt: Say hello to the world
+2025-03-28 14:43:26,300 - INFO - Generated code for create_text_file with params: None
+2025-03-28 14:43:28,344 - INFO - Received prompt: Say it again
+2025-03-28 14:43:28,410 - INFO - Retrieved function: create_text_file for prompt: Say it again
+2025-03-28 14:43:28,410 - INFO - Generated code for create_text_file with params: None
+2025-03-28 14:44:54,280 - INFO - Received prompt: Open calculator
+2025-03-28 14:44:54,311 - INFO - Retrieved function: open_calculator for prompt: Open calculator
+2025-03-28 14:44:54,312 - INFO - Generated code for open_calculator with params: None
+2025-03-28 14:44:56,341 - INFO - Received prompt: Launch Google Chrome
+2025-03-28 14:44:56,373 - INFO - Retrieved function: open_chrome for prompt: Launch Google Chrome
+2025-03-28 14:44:56,374 - INFO - Generated code for open_chrome with params: None
+2025-03-28 14:44:58,408 - INFO - Received prompt: Check CPU usage
+2025-03-28 14:44:58,443 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 14:44:58,443 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 14:45:00,474 - INFO - Received prompt: Create a text file
+2025-03-28 14:45:00,509 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 14:45:00,509 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 14:45:02,544 - INFO - Received prompt: Run a command
+2025-03-28 14:45:02,572 - INFO - Retrieved function: run_shell_command for prompt: Run a command
+2025-03-28 14:45:02,573 - INFO - Generated code for run_shell_command with params: ['dir']
+2025-03-28 14:45:09,911 - INFO - Received prompt: Check CPU usage
+2025-03-28 14:45:09,941 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 14:45:09,942 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 14:45:11,975 - INFO - Received prompt: Show it again
+2025-03-28 14:45:12,042 - INFO - Retrieved function: get_cpu_usage for prompt: Show it again
+2025-03-28 14:45:12,042 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 14:45:14,077 - INFO - Received prompt: Create a text file
+2025-03-28 14:45:14,107 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 14:45:14,108 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 14:50:01,959 - INFO - Use pytorch device_name: cpu
+2025-03-28 14:50:01,959 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 14:50:19,945 - INFO - Registered new function: say_hello - Prints a hello message to the console
+2025-03-28 14:50:21,985 - INFO - Received prompt: Say hello to the world
+2025-03-28 14:50:22,022 - INFO - Retrieved function: create_text_file for prompt: Say hello to the world
+2025-03-28 14:50:22,022 - INFO - Generated code for create_text_file with params: None
+2025-03-28 14:50:24,053 - INFO - Received prompt: Say it again
+2025-03-28 14:50:24,125 - INFO - Retrieved function: create_text_file for prompt: Say it again
+2025-03-28 14:50:24,126 - INFO - Generated code for create_text_file with params: None
+2025-03-28 14:52:10,634 - INFO - Use pytorch device_name: cpu
+2025-03-28 14:52:10,635 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 14:52:30,094 - INFO - Registered new function: say_hello - Prints a hello message to the console
+2025-03-28 14:52:32,129 - INFO - Received prompt: Say hello to the world
+2025-03-28 14:52:32,172 - INFO - Retrieved function: create_text_file for prompt: Say hello to the world
+2025-03-28 14:52:32,173 - INFO - Generated code for create_text_file with params: None
+2025-03-28 14:52:34,220 - INFO - Received prompt: Say it again
+2025-03-28 14:52:34,287 - INFO - Retrieved function: create_text_file for prompt: Say it again
+2025-03-28 14:52:34,288 - INFO - Generated code for create_text_file with params: None
+2025-03-28 15:00:19,442 - INFO - Use pytorch device_name: cpu
+2025-03-28 15:00:19,443 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 15:00:34,241 - INFO - Registered new function: say_hello - Prints a hello message to the console
+2025-03-28 15:00:36,288 - INFO - Received prompt: Say hello to the world
+2025-03-28 15:00:36,323 - INFO - Retrieved function: create_text_file for prompt: Say hello to the world
+2025-03-28 15:00:36,323 - INFO - Generated code for create_text_file with params: None
+2025-03-28 15:00:38,353 - INFO - Received prompt: Say it again
+2025-03-28 15:00:38,389 - INFO - Retrieved function: say_hello for prompt: Say it again
+2025-03-28 15:00:38,389 - INFO - Generated code for say_hello with params: None
+2025-03-28 15:03:26,027 - INFO - Use pytorch device_name: cpu
+2025-03-28 15:03:26,028 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 15:03:42,927 - INFO - Registered new function: say_hello - Prints a hello message to the console
+2025-03-28 15:03:44,972 - INFO - Received prompt: Say hello to the world
+2025-03-28 15:03:45,008 - INFO - Retrieved function: create_text_file for prompt: Say hello to the world
+2025-03-28 15:03:45,009 - INFO - Generated code for create_text_file with params: None
+2025-03-28 15:03:47,027 - INFO - Received prompt: Say it again
+2025-03-28 15:03:47,063 - INFO - Retrieved function: say_hello for prompt: Say it again
+2025-03-28 15:03:47,063 - INFO - Generated code for say_hello with params: ['world']
+2025-03-28 15:09:01,395 - INFO - Use pytorch device_name: cpu
+2025-03-28 15:09:01,396 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 15:09:26,096 - INFO - Registered new function: say_hello - Prints a hello message to the console
+2025-03-28 15:09:28,129 - INFO - Received prompt: Say hello to the world
+2025-03-28 15:09:28,166 - ERROR - Error processing prompt 'Say hello to the world': list index out of range
+2025-03-28 15:09:30,200 - INFO - Received prompt: Say it again
+2025-03-28 15:09:30,228 - ERROR - Error processing prompt 'Say it again': list index out of range
+2025-03-28 15:14:37,904 - INFO - Use pytorch device_name: cpu
+2025-03-28 15:14:37,905 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 15:17:01,070 - INFO - Registered new function: say_hello - Prints a hello message to the console
+2025-03-28 15:17:03,092 - INFO - Received prompt: Say hello to the world
+2025-03-28 15:17:03,151 - INFO - Retrieved function: say_hello for prompt: Say hello to the world
+2025-03-28 15:17:03,151 - INFO - Generated code for say_hello with params: ['world']
+2025-03-28 15:17:05,183 - INFO - Received prompt: Say it again
+2025-03-28 15:17:05,221 - INFO - Retrieved function: say_hello for prompt: Say it again
+2025-03-28 15:17:05,221 - INFO - Generated code for say_hello with params: ['world']
+2025-03-28 15:19:12,586 - INFO - Received prompt: Open calculator
+2025-03-28 15:19:12,587 - INFO - Retrieved function: open_calculator for prompt: Open calculator
+2025-03-28 15:19:12,587 - INFO - Generated code for open_calculator with params: None
+2025-03-28 15:19:14,610 - INFO - Received prompt: Launch Google Chrome
+2025-03-28 15:19:14,647 - INFO - Retrieved function: open_chrome for prompt: Launch Google Chrome
+2025-03-28 15:19:14,647 - INFO - Generated code for open_chrome with params: None
+2025-03-28 15:19:16,668 - INFO - Received prompt: Check CPU usage
+2025-03-28 15:19:16,703 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 15:19:16,704 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 15:19:18,734 - INFO - Received prompt: Create a text file
+2025-03-28 15:19:18,770 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 15:19:18,771 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 15:19:20,803 - INFO - Received prompt: Run a command
+2025-03-28 15:19:20,838 - INFO - Retrieved function: run_shell_command for prompt: Run a command
+2025-03-28 15:19:20,838 - INFO - Generated code for run_shell_command with params: ['dir']
+2025-03-28 15:19:27,199 - INFO - Received prompt: Check CPU usage
+2025-03-28 15:19:27,234 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 15:19:27,234 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 15:19:29,257 - INFO - Received prompt: Show it again
+2025-03-28 15:19:29,326 - INFO - Retrieved function: get_cpu_usage for prompt: Show it again
+2025-03-28 15:19:29,326 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 15:19:31,350 - INFO - Received prompt: Create a text file
+2025-03-28 15:19:31,382 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 15:19:31,382 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 16:11:22,930 - INFO - Received prompt: Open calculator
+2025-03-28 16:11:23,048 - INFO - Retrieved function: open_calculator for prompt: Open calculator
+2025-03-28 16:11:23,077 - INFO - Generated code for open_calculator with params: None
+2025-03-28 16:11:25,327 - INFO - Received prompt: Launch Google Chrome
+2025-03-28 16:11:26,459 - INFO - Retrieved function: open_chrome for prompt: Launch Google Chrome
+2025-03-28 16:11:26,459 - INFO - Generated code for open_chrome with params: None
+2025-03-28 16:11:28,491 - INFO - Received prompt: Check CPU usage
+2025-03-28 16:11:28,625 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 16:11:28,625 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 16:11:30,633 - INFO - Received prompt: Create a text file
+2025-03-28 16:11:30,675 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 16:11:30,676 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 16:11:32,727 - INFO - Received prompt: Run a command
+2025-03-28 16:11:32,746 - INFO - Retrieved function: run_shell_command for prompt: Run a command
+2025-03-28 16:11:32,746 - INFO - Generated code for run_shell_command with params: ['dir']
+2025-03-28 16:11:50,450 - INFO - Received prompt: Check CPU usage
+2025-03-28 16:11:50,487 - INFO - Retrieved function: get_cpu_usage for prompt: Check CPU usage
+2025-03-28 16:11:50,488 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 16:11:52,597 - INFO - Received prompt: Show it again
+2025-03-28 16:11:52,736 - INFO - Retrieved function: get_cpu_usage for prompt: Show it again
+2025-03-28 16:11:52,736 - INFO - Generated code for get_cpu_usage with params: None
+2025-03-28 16:11:54,754 - INFO - Received prompt: Create a text file
+2025-03-28 16:11:54,775 - INFO - Retrieved function: create_text_file for prompt: Create a text file
+2025-03-28 16:11:54,775 - INFO - Generated code for create_text_file with params: ['example.txt']
+2025-03-28 16:12:51,529 - WARNING - Function say_hello already exists
+2025-03-28 16:12:51,567 - ERROR - Error registering function 'say_hello': 400: Function already exists
+2025-03-28 16:12:53,614 - INFO - Received prompt: Say hello to the world
+2025-03-28 16:12:53,619 - INFO - Retrieved function: say_hello for prompt: Say hello to the world
+2025-03-28 16:12:53,620 - INFO - Generated code for say_hello with params: ['world']
+2025-03-28 16:12:55,664 - INFO - Received prompt: Say it again
+2025-03-28 16:12:55,689 - INFO - Retrieved function: say_hello for prompt: Say it again
+2025-03-28 16:12:55,689 - INFO - Generated code for say_hello with params: ['world']
