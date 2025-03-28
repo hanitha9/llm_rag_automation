@@ -168,6 +168,8 @@ python test_run_shell_command.py
 
 ### Logging
 - File: `api_execution.log`
+![Screenshot 2025-03-28 181551](https://github.com/user-attachments/assets/4b365114-6535-4546-a249-87d452b5e88f)
+
 - Logs prompt receipt, function retrieval, and errors.
 
 ### Monitoring
