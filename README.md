@@ -198,6 +198,9 @@ python test_run_shell_command.py
 
   ![Screenshot 2025-03-28 213959](https://github.com/user-attachments/assets/ef13d67b-2fef-4e11-af0c-861d33dce673)
 
+  ![Screenshot 2025-03-28 181816](https://github.com/user-attachments/assets/66aa1d31-bc74-438d-b18c-45fc976a186c)
+
+
   ![Screenshot 2025-03-28 214037](https://github.com/user-attachments/assets/5d92d3c1-6adb-46f5-87a1-14310569393a)
 
 ## Submission Details
