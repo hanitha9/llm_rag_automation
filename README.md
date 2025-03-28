@@ -184,7 +184,6 @@ python test_run_shell_command.py
 - **GitHub**: https://github.com/yourusername/llm_rag_automation
 - **Author**: Hanitha
 - **Date**: March 28, 2025
-- **Course**: [Your Course Name]
 
 Clone, run, and explore—everything you need is here! 🚀
 
