@@ -123,10 +123,8 @@ python test_client.py
   Prompt: Check CPU usage -> 'get_cpu_usage'
   ```
   - Output:
-  ```
+  
   ![Screenshot 2025-03-28 174740](https://github.com/user-attachments/assets/2ba39dd2-2c00-4158-b92c-2cb0e6a40dee)
-
-  ```
 
 ### Context Awareness Test (`test_client1.py`)
 ```bash
@@ -138,11 +136,9 @@ python test_client1.py
   Prompt: Show it again -> 'get_cpu_usage'
   ```
   - Output:
-  ```
+
   ![Screenshot 2025-03-28 180245](https://github.com/user-attachments/assets/d0096ccf-1dbd-4359-bbfc-019124e9cfbb)
 
-
-  ```
 
 ### Custom Function Test (`test_custom.py`)
 ```bash
@@ -153,11 +149,9 @@ python test_custom.py
   Register Response: {'message': "Function 'say_hello' registered successfully"}
   ```
   - Output:
-  ```
+
   ![Screenshot 2025-03-28 181241](https://github.com/user-attachments/assets/003b9034-fb7d-448a-afe8-b838f1c4a6fd)
 
-
-  ```
 
 ### Individual Execution Tests
 ```bash
